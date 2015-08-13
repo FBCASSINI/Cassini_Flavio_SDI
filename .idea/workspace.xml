@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aba22831-381e-4db4-a994-572937531da3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Cassini_Flavio_Expression_Assignment/index.html" afterPath="$PROJECT_DIR$/Cassini_Flavio_Expression_Assignment/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Cassini_Flavio_Expression_Assignment/js/script.js" afterPath="$PROJECT_DIR$/Cassini_Flavio_Expression_Assignment/js/script.js" />
     </list>
     <ignored path="Cassini_Flavio_SDI.iws" />
@@ -28,7 +27,7 @@
         <entry file="file://$PROJECT_DIR$/Cassini_Flavio_Expression_Assignment/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -39,8 +38,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Cassini_Flavio_Expression_Assignment/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.20930232">
-              <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+            <state vertical-scroll-proportion="0.069767445">
+              <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -54,8 +53,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Cassini_Flavio_Expression_Assignment/js/script.js" />
         <option value="$PROJECT_DIR$/Cassini_Flavio_Expression_Assignment/index.html" />
+        <option value="$PROJECT_DIR$/Cassini_Flavio_Expression_Assignment/js/script.js" />
       </list>
     </option>
   </component>
@@ -159,6 +158,9 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="aba22831-381e-4db4-a994-572937531da3" name="Default" comment="" />
@@ -191,6 +193,14 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -220,7 +230,7 @@
     <entry file="file://$PROJECT_DIR$/Cassini_Flavio_Expression_Assignment/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -229,8 +239,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Cassini_Flavio_Expression_Assignment/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20930232">
-          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.069767445">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
           <folding />
         </state>
       </provider>
