@@ -17,14 +17,18 @@ var donation = confirm("Woukd you like to donate $10 to chairty?");
 console.log("Would you like to donate $10 to chairty " + donation);
 if(donation) {
     var donation = [Number(10)];
+
+    var shoppingCart = [Number(cookiePrice), Number(cookieQTY), Number(candyPrice), Number(candyQTY), Number(donation)]; //using the variable shoppingCart to gather info on variables. I also set it up so the variables are converted to numbers.
+
+    console.log(shoppingCart); //Printing out variable shoppingCart
+    var totalPrice = shoppingCart[0] * shoppingCart[1] + shoppingCart[2] * shoppingCart[3] + shoppingCart[4]; //totaling all variables into array format
+
+    console.log("Total price of food bought is $" + totalPrice); //printing out total price
+    alert("Your total price is  $" + totalPrice); //printing out total to the user using alert box.
+}else {
+    var shoppingCart2 = [Number(cookiePrice), Number(cookieQTY), Number(candyPrice), Number(candyQTY)];
+    var totalPrice2 = shoppingCart2[0] * shoppingCart2[1] + shoppingCart2[2] * shoppingCart2[3];
+    console.log("total price of food is $" + totalPrice2)
+    alert("Your total price is  $" + totalPrice2); //printing out total to the user using alert box.
 }
-var shoppingCart = [Number(cookiePrice), Number(cookieQTY), Number(candyPrice), Number(candyQTY), Number(donation)]; //using the variable shoppingCart to gather info on variables. I also set it up so the variables are converted to numbers.
-console.log(shoppingCart); //Printing out variable shoppingCart
-var totalPrice = shoppingCart[0] * shoppingCart[1] + shoppingCart[2] * shoppingCart[3] + shoppingCart[4]; //totaling all variables into array format
-console.log("Total price of food bought is $" + totalPrice); //printing out total price
-
-
-
-
-alert("Your total price is  $" + totalPrice); //printing out total to the user using alert box.
 
