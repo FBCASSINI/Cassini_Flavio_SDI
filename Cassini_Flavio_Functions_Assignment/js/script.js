@@ -21,7 +21,7 @@ var tickets = prompt("How many Florida lottery tickets will you like to generate
     }
 
 }
-// I could not figure our how to join this while loop to tickets variable and call next funtion. Or make new function and have not interfere with the next.
+// I could not figure our how to join this while loop to tickets variable and call next function. Or make new function and have not interfere with the next.
 
 
 
