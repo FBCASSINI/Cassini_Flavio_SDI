@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aba22831-381e-4db4-a994-572937531da3" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Cassini_Flavio_Functions_Assignment/Cassini_Flavio_Functions_Flowchart.pdf" afterPath="$PROJECT_DIR$/Cassini_Flavio_Functions_Assignment/Cassini_Flavio_Functions_Flowchart.pdf" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Cassini_Flavio_Functions_Assignment/js/script.js" afterPath="$PROJECT_DIR$/Cassini_Flavio_Functions_Assignment/js/script.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -49,8 +50,8 @@
       <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Cassini_Flavio_Functions_Assignment/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.20476858">
-              <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+            <state vertical-scroll-proportion="-0.19214587">
+              <caret line="9" column="79" selection-start-line="9" selection-start-column="79" selection-end-line="9" selection-end-column="79" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -606,8 +607,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Cassini_Flavio_Functions_Assignment/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20476858">
-          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+        <state vertical-scroll-proportion="-0.19214587">
+          <caret line="9" column="79" selection-start-line="9" selection-start-column="79" selection-end-line="9" selection-end-column="79" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>

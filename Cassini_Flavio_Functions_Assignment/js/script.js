@@ -7,7 +7,7 @@ Instructor Lee Lewis
  */
 
 //varaiables
-var lotteryPower = confirm("press ok for lottery press cancel for powerball.")
+var lotteryPower = confirm("press ok for lottery press cancel for powerball.");
 var myRandom;// variablle myRandom to make the numbers random and round.
 var myRandom2;
 var tickets = prompt("How many Florida lottery tickets will you like to generate?"); //prompting for a number for how many to generate tickets
