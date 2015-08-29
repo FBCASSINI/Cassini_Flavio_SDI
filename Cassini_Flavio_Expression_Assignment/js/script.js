@@ -35,5 +35,15 @@ var program = ("Web Development & Design");
 console.log(program)
 
 
+/*Grade details:
 
+Technical/Flowchart: Fair (4/10pts) You can put all the variable declarations together in a single internal storage symbol, and then include the prompts after that for the assignments. Your display symbols should be in line with everything else in the flowchart; you code is going from one statement to the next to the next, and this should be reflected in this flowchart as a single run from top to bottom (this will change when we start working with conditionals). Also, every logical flow should end at a terminator, not at a display symbol.
+Technical/Calculation: Good (15/20pts) You've got a claculation in your code that uses hard-coded values, which is not what this assignment required.
+Technical/Prompts: Excellent (15/15pts)
+Technical/Output: Good (11/15pts) Your output should only include that which is required for the calculator, not your name and class information.
+Technical/Data Types: Good (8/10pts) Missing the required string variable.
+GitHub/Delivery: Excellent (10/10pts)
+GitHub/Files: Good (8/10pts) All required files should be compressed into a single zip file.
+Professionalism/Completeness: Excellent (5/5pts)
+Professionalism/Investment: Excellent (5/5pts) */
 
