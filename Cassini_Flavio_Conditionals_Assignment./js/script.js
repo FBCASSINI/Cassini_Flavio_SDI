@@ -50,3 +50,19 @@ if(donation && donation5) { // logical operator compairing if both are true
 //tearnaney
 var childsAge = 9;
 (childsAge > 13) ? console.log("You can watch the movie.") : console.log("Come back in 4 more years, kid."); //using the ternary operators to shorten conditional expression.
+
+/*Grade details:
+
+Technical/Flowchart: Fair (4/10pts) Your variable declarations should be in the internal storage symbol as you have them, but the prompt assignments should be in a separate data symbol. Your support details for the conditionals should include information on what's being compared, not what operator you're using. You don't need a process symbol for the "else", you only need to indicate that this is the "false" side of the condition with a label. The data symbols inside each conditional should be process symbols because they are not asking the user for data. You're also missing much of the logic within each of the conditional code blocks. Remember that everything in the code must be reflected in the flowchart.
+Technical/Calculation: Good (4/5pts) You're assigning values to tenDonation and fiveDonation incorrectly; you don't surround the numbers with square brackets.
+Technical/Conditionals: Good (11/15pts) Your comparison of donation > donation5 is an incorrect setup as you would never ask if true is greater than false. It would be more likely that you would ask if donation && !donation5 to compare Boolean values.
+Technical/Else If Statement: Excellent (5/5pts)
+Technical/Logical Operator: Excellent (5/5pts)
+Technical/Ternary Statement: Excellent (5/5pts)
+Technical/User Prompts: Good (4/5pts)  You're not casting the prompted values to number data types before using it in a calculation.
+Technical/Validation: Zero (0/10pts) You're not validatiing any of the inputs as required by the assignment.
+Technical/Comments: Excellent (10/10pts)
+GitHub/Delivery: Excellent (10/10pts)
+GitHub/Files: Excellent (10/10pts)
+Professionalism/Completeness: Good (4/5pts) You sohuld be outputting to either alerts or the console (preferably, the console), but not both. You also want to be sure your outputs are meaningful. Outputting an array without context would be meaningless to a user.
+Professionalism/Investment: Excellent (5/5pts)*/
